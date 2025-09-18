@@ -65,5 +65,5 @@ Compra 2:
 
 ## 📝 Autor
 - **Mayra Morán**  
-Carrera de Pedagogía de la Matemática y la Física  
-Universidad Estatal de Bolívar  
+Carrera de Tecnologias de la información 
+Universidad Estatal Amazonica  
